@@ -1228,6 +1228,14 @@ ol.list-num-count.list-outline-none>li:before {
 	}
 }
 
+/* Ensure the poster image has a max width of 220px */
+.video-media video {
+    max-width: 220px;
+    width: 100%;
+    height: auto;
+}
+
+
 
 /*======================================
 8. OVERLAY ( transparient box style  )
